@@ -13681,6 +13681,9 @@ Once configured, MCP enables AI assistants to:
 
 4518. **[mcp-server](https://github.com/finmap-org/mcp-server)** - ⭐ 10
    The finmap.org MCP server provides comprehensive historical data from the US, UK, Russian and Turkish stock exchanges. Access sectors, tickers, company profiles, market cap, volume, value, and trade counts, as well as treemap and histogram visualizations
+4519. **[TWZRD Agent Intel](https://github.com/twzrd-sol/wzrd-final)** - ⭐ N/A
+   Solana-native trust + x402 receipt layer for AI agents: free preflight trust checks and paid signed V5 trust receipts. Streamable-HTTP MCP endpoint at https://intel.twzrd.xyz/mcp
+
 
 ### MCP Clients
 
